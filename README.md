@@ -1,2 +1,2 @@
 # awesome
-⚡️ Delightful Rollup Plugins, Packages, and Resources
+⚡️ Delightful Elog Plugins, Packages, and Resources
