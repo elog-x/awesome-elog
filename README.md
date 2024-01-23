@@ -18,6 +18,9 @@
 - [语雀写作，Kubernetes部署——Elog+Hexo博客持续集成](https://juejin.cn/post/7304540675668181003)
 - [next-yuque-elog](https://github.com/lidelong-0201/next-yuque-elog) yuque写作 + elog同步 + nextjs渲染 + vercel部署  👉  [delong的博客](https://lidelong.xyz/)
 - [Ymri's Haven](https://github.com/Ymriri/Haven) 语雀 + VitePress + GitHub Actions + Vercel部署  👉  [Ymri's Haven](https://blog.ym94.cn/)
+## 插件
+- [Backblaze B2 图床插件](https://github.com/LetTTGACO/elog/tree/master/plugins/plugin-img-b2) 上传图片到Backblaze B2
+- [Cloudflare R2 图床插件](https://github.com/LetTTGACO/elog/tree/master/plugins/plugin-img-r2) 上传图片到Cloudflare R2
 ## 工具
 - [Blogpal](https://elog.1874.cool/notion/blogpal) 博客同步助手，浏览器插件
 
