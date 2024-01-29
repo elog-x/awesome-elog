@@ -1,11 +1,12 @@
 # awesome-elog
 ⚡️ Delightful Elog Plugins, Packages, and Resources
 ## 最佳实践
-### 官方
+### 开箱即用
 - [elog-docs](https://github.com/LetTTGACO/elog-docs) 多写作平台云端写作 + vitepress + GitHub Action + GitHub Pages 持续集成  👉  [Elog Docs](https://elog.1874.cool/)
 - [Notion + Elog + Hexo + GitHub Actions + Vercel 博客解决方案](https://github.com/elog-x/notion-hexo)  👉  [Notion-Hexo](https://notion-hexo.vercel.app/)
 - [语雀 + Elog + VitePress + GitHub Actions + Vercel 文档站点解决方案](https://github.com/elog-x/yuque-vitepress)  👉  [Yuque-Vitepress](https://yuque-vitepress.vercel.app/)
-- [FlowUs + Elog + Halo + GitHub Actions 博客解决方案](https://github.com/elog-x/flowus-halo)  👉  [FlowUs-Halo](https://halo.1874.cool/)
+- [FlowUs + Elog + Halo + GitHub Actions 博客解决方案](https://github.com/elog-x/flowus-halo)  👉  [FlowUs-Halo](https://halo.1874.cool/archives/flowus-halo)
+- [Notion + Elog + Halo + GitHub Actions 博客解决方案](https://github.com/elog-x/notion-halo)  👉  [Notion-Halo](https://halo.1874.cool/archives/notion-halo)
 ### 社区
 - [jasonma0012.github.io](https://github.com/JasonMa0012/jasonma0012.github.io) 语雀 + hexo + GitHub Action 抓取文章 + Vercel 部署  👉  [Elysium](https://elysium.jason-ma.com/)
 - [Knowledge-Garden](https://github.com/shenweiyan/Knowledge-Garden) 语雀 + mkdocs + GitHub Action 持续集成  👉  [生信知识花园](https://doc.weiyan.cc/)
